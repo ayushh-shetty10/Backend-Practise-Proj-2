@@ -27,3 +27,8 @@ build/
 # Optional local runtime files
 *.pid
 *.seed
+
+.env
+.env.*
+**/.env
+**/.env.*
